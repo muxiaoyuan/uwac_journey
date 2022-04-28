@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 木小猿的博客
 
 You can use the [editor on GitHub](https://github.com/muxiaoyuan/uwac_journey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
